@@ -8,7 +8,7 @@ This repository presents the visual language, materials, palette, typography, ca
 
 ## Live Site
 
-[View the Low Visibility Brand Bible](https://bartron773.github.io/low-visibility-brand-bible/)
+[View the Low Visibility Brand Bible](https://simple-minds-studios.github.io/low-visibility-brand-bible/)
 
 ## Repository Contents
 

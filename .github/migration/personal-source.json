@@ -1,0 +1,20 @@
+{
+  "source_repository": "Bartron773/low-visibility-brand-bible",
+  "source_default_sha": "b7a7c0e8deb1fcc99bba49a88077d92bdfd4097c",
+  "organization_sha_before_audit": "c520b6a3af2175f1bcbfadff5ce3207f1cfb2015",
+  "common_ancestor": "b7a7c0e8deb1fcc99bba49a88077d92bdfd4097c",
+  "source_description": null,
+  "source_homepage": null,
+  "preserved_branches": [],
+  "source_branch_map": [
+    {
+      "source_branch": "main",
+      "sha": "b7a7c0e8deb1fcc99bba49a88077d92bdfd4097c",
+      "preserved_in": "organization main ancestry"
+    }
+  ],
+  "source_tags": [],
+  "issues_and_pull_requests": [],
+  "releases": [],
+  "note": "Git history and branch tips are preserved under archive/personal/*. GitHub issue/PR numbers, review threads, check runs, permissions and secrets are not Git objects. Source records remain at their original URLs. No credential values have been copied."
+}
